@@ -1,6 +1,6 @@
 version: 1.0
 
-name: stack
+name: stack-test
 description: GH-stack for a nextjs app on azure appservice
 branding:
   icon: 'azure.svg'
